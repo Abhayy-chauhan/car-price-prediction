@@ -1,1 +1,2 @@
 # car-price-prediction
+Car price prediction is a data-driven process that utilizes machine learning algorithms to forecast the cost of vehicles in the market. This predictive modeling involves analyzing various factors that influence car prices, such as brand reputation, model specifications, production year, mileage, and economic indicators. By leveraging historical data, these models can identify patterns and correlations to make accurate predictions about future car prices.
